@@ -23,18 +23,7 @@ A production-grade, high-fidelity Governance, Risk & Compliance platform built w
 
 ## Getting Started
 
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the application.
+Open https://sentinel-grc.vercel.app/ to view the application.
 
 ## Design Philosophy
 
